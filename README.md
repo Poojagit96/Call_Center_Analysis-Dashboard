@@ -1,4 +1,5 @@
-# Call_Center_Analysis-Dashboard
+# Call_Center_Trend AnalysisDashboard
+Power BI | KPI Monitoring | Performance Analytics
 This Power BI dashboard analyzes call center performance, agent productivity, and customer satisfaction metrics.
 
 # Business Problem
